@@ -1,16 +1,51 @@
-## Hi there 👋
+# 💼 Jason's GitHub
 
-<!--
-**JasonRyanCunningham/JasonRyanCunningham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Jason, a software engineer with a passion for programming, systems development, and creating engaging user experiences. Here, you'll find some of the projects I've worked on, showcasing my skills and experience across various platforms and technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 👨‍💻 Software Engineer with experience in Slots (EGMs), Progressives, and System programming [LinkedIn profile](https://www.linkedin.com/in/jasonryancunningham/)
+- 🎮 Deep knowledge of the gaming industry and regulations (foreign and domestic)
+- 🏆 Completed [C# 8.0 and .NET Core 3.0 Modern Cross-Platform Development](https://www.google.com/search?q=ISBN+978-1-78847-812-0)
+- 🏆 Completed [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course?authuser=1) and other key developer courses
+- 📘 Proficient in C++, C#, Java, Python, Kotlin, and more
+
+---
+
+## 🛠️ Technologies & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square) 
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 📱 [Droidcorder for Android App](https://github.com/JasonRyanCunningham/Droidcorder)
+**Description:** building an operational "tricorder" using just the sensor package available on Android
+- **Technologies:** Kotlin, Jetpack Compose, Android sensor framework
+- **Key Features:** Real-time sensor readings, saving and pushing readings to cloud storage, data analysis of sensor readings.
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [jasonryancunningham.slashing859@passinbox.com](mailto:jasonryancunningham.slashing859@passinbox.com) 
+- 💼 LinkedIn: [Jason's LinkedIn Profile](https://www.linkedin.com/in/jasonryancunningham/)
+
+---
+
+Feel free to explore my repositories, and don’t hesitate to reach out if you’re interested in collaborating or learning more about my work!
