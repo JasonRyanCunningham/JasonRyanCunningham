@@ -36,6 +36,11 @@ Welcome to my GitHub! I'm Jason, a software engineer with a passion for programm
 
 ## 📂 Featured Projects
 
+### [Random Quote Generator](https://github.com/JasonRyanCunningham/randquote)
+**Description:** Quote generator for freeCodeCamps's Front End Development Libraries Certificate.
+- **Technologies:** Javascript, React, SASS, Bootstrap
+- **Key Features:** Randomly display one of ten quotes.
+
 ### 📱 [Droidcorder for Android App](https://github.com/JasonRyanCunningham/Droidcorder)
 **Description:** building an operational "tricorder" using just the sensor package available on Android
 - **Technologies:** Kotlin, Jetpack Compose, Android sensor framework
