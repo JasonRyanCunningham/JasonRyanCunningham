@@ -26,6 +26,7 @@ Welcome to my GitHub! I'm Jason, a software engineer with a passion for programm
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square) 
@@ -40,12 +41,39 @@ Welcome to my GitHub! I'm Jason, a software engineer with a passion for programm
 
 ## 📂 Featured Projects
 
-### [Random Quote Generator](https://github.com/JasonRyanCunningham/randquote)
+### :globe_with_meridians:[Random Quote Generator](https://github.com/JasonRyanCunningham/randquote)
+
 **Description:** Quote generator for freeCodeCamps's Front End Development Libraries Certificate.
 - **Technologies:** Javascript, React, SASS, Bootstrap
 - **Key Features:** Randomly display one of ten quotes.
 
-### 📱 [Droidcorder for Android App](https://github.com/JasonRyanCunningham/Droidcorder)
+### :globe_with_meridians:[Markdown Previewer](https://github.com/JasonRyanCunningham/markdownpreview)
+
+**Description:** Markdown Previewer for freeCodeCamps's Front End Development Libraries Certificate.
+- **Technologies:** Javascript, React, SASS, Bootstrap
+- **Key Features:** Shows preview of markdown formatting of markdown test entered in the editing field.
+
+### :globe_with_meridians:[Drum Machine](https://github.com/JasonRyanCunningham/drummachine)
+
+**Description:** Durm Machine for freeCodeCamps's Front End Development Libraries Certificate.
+- **Technologies:** Javascript, React, SASS, Bootstrap
+- **Key Features:** play sound based on which of nine drumpads are clicked.
+
+### :globe_with_meridians:[Calculator](https://github.com/JasonRyanCunningham/calculator)
+
+**Description:** Calculator for freeCodeCamps's Front End Development Libraries Certificate.
+- **Technologies:** Javascript, React, SASS, Bootstrap
+- **Key Features:** Works like a in-real-life simple calculator, able to do `+`,`-`,`*`, and `/` operations based on standard order of operations.
+
+
+### :globe_with_meridians:[Pomodoro Timer](https://github.com/JasonRyanCunningham/pomodoro-timer)
+
+**Description:** a 25-5 Timer for freeCodeCamps's Front End Development Libraries Certificate.
+- **Technologies:** Javascript, React, Redux, SASS
+- **Key Features:** Alternating session and break timers with a sounded alarm at the end of each timer.
+
+### :iphone:[Droidcorder for Android App](https://github.com/JasonRyanCunningham/Droidcorder)
+
 **Description:** building an operational "tricorder" using just the sensor package available on Android
 - **Technologies:** Kotlin, Jetpack Compose, Android sensor framework
 - **Key Features:** Real-time sensor readings, saving and pushing readings to cloud storage, data analysis of sensor readings.
